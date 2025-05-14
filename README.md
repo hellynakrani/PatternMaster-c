@@ -1,4 +1,5 @@
 C Pattern Printing Collection
+
 A curated collection of C programs that print a variety of patterns using nested loops and logic. The patterns are categorized based on difficulty and include numbers, alphabets, and stars. Perfect for learners looking to improve their logical thinking and gain confidence in C programming.
 
 ✨ Features
@@ -13,8 +14,14 @@ A curated collection of C programs that print a variety of patterns using nested
 
 ✅ Minimal setup — compile and run with any C compiler
 
-✅ 1. pattern_hollow_square.c 
-Great for practicing nested loops and conditionals
+✅ Great for practicing nested loops and conditionals
+
+📂 Files Included
+
+✅ 1. pattern_hollow_square.c (🟢 Easy)
+
+Prints a hollow square using stars.
+
 * * * * * * * *
 *             *
 *             *
@@ -24,8 +31,10 @@ Great for practicing nested loops and conditionals
 *             *
 * * * * * * * *
 
-✅ 2. pattern_half_pyramid_reverse_full.c 
+✅ 2. pattern_half_pyramid_reverse_full.c (🟡 Medium)
+
 Prints a mirrored half-pyramid pattern of numbers, followed by an increasing half-pyramid.
+
 1 2 3 4
 1 2 3
 1 2
@@ -34,8 +43,10 @@ Prints a mirrored half-pyramid pattern of numbers, followed by an increasing hal
 1 2 3
 1 2 3 4
 
-✅ 3. pattern_alpha_hourglass.c
+✅ 3. pattern_alpha_hourglass.c (🟡 Medium)
+
 An hourglass pattern made using alphabets.
+
       A
     A B
   A B C
@@ -43,9 +54,11 @@ A B C D
   A B C
     A B
       A
-      
-✅ 4. pattern_alpha_diamond.c 
-A symmetric diamond made of alphabets with mirrored left and right parts
+
+✅ 4. pattern_alpha_diamond.c (🔴 Hard)
+
+A symmetric diamond made of alphabets with mirrored left and right parts.
+
       A
     B A B
   C B A B C
@@ -54,9 +67,11 @@ D C B A B C D
     B A B
       A
 
-✅ 5. pattern_number_frame.c 
+✅ 5. pattern_number_frame.c (🔥 Very Hard)
+
 A complex number-based square frame pattern.
-4 4 4 4 4 4 4
+
+  4 4 4 4 4 4 4
 4 3 3 3 3 3 4
 4 3 2 2 2 3 4
 4 3 2 1 2 3 4

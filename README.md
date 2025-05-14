@@ -71,6 +71,7 @@ D C B A B C D
 
 A complex number-based square frame pattern.
 
+
   4 4 4 4 4 4 4
 4 3 3 3 3 3 4
 4 3 2 2 2 3 4

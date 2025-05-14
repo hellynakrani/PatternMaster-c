@@ -18,8 +18,7 @@ A curated collection of C programs that print a variety of patterns using nested
 
 📂 Files Included
 
-✅ 1. pattern_hollow_square.c (🟢 Easy)
-
+✅ 1. pattern_hollow_square.c 
 Prints a hollow square using stars.
 
 * * * * * * * *
@@ -31,8 +30,7 @@ Prints a hollow square using stars.
 *             *
 * * * * * * * *
 
-✅ 2. pattern_half_pyramid_reverse_full.c (🟡 Medium)
-
+✅ 2. pattern_half_pyramid_reverse_full.c 
 Prints a mirrored half-pyramid pattern of numbers, followed by an increasing half-pyramid.
 
 1 2 3 4
@@ -43,8 +41,7 @@ Prints a mirrored half-pyramid pattern of numbers, followed by an increasing hal
 1 2 3
 1 2 3 4
 
-✅ 3. pattern_alpha_hourglass.c (🟡 Medium)
-
+✅ 3. pattern_alpha_hourglass.c 
 An hourglass pattern made using alphabets.
 
       A
@@ -55,8 +52,7 @@ A B C D
     A B
       A
 
-✅ 4. pattern_alpha_diamond.c (🔴 Hard)
-
+✅ 4. pattern_alpha_diamond.c 
 A symmetric diamond made of alphabets with mirrored left and right parts.
 
       A
@@ -67,12 +63,10 @@ D C B A B C D
     B A B
       A
 
-✅ 5. pattern_number_frame.c (🔥 Very Hard)
-
+✅ 5. pattern_number_frame.c 
 A complex number-based square frame pattern.
 
-
-  4 4 4 4 4 4 4
+4 4 4 4 4 4 4
 4 3 3 3 3 3 4
 4 3 2 2 2 3 4
 4 3 2 1 2 3 4
@@ -88,3 +82,6 @@ gcc filename.c -o filename
 ./filename
 
 Replace filename with the name of the .c file you want to compile.
+
+view code
+
